@@ -1,0 +1,130 @@
+
+body {
+  background-image: url('bck.png');
+  background-repeat: no-repeat;
+  
+}
+.container
+{
+    height: 119.5vh;
+    width: 50px;
+    margin-top: 60px;
+    
+}
+.content h2{
+    color: sandybrown;
+   
+}
+.content h3{
+    color: sandybrown;
+   
+}
+
+h5
+{
+    color: white;
+    margin:0px;
+    padding: 0px;
+}
+.content{
+    width:90%;
+    height: 119.5vh;
+    margin-top: 38px;
+    
+}
+
+.main
+{
+    height: 127vh;
+    width: 100%;
+    display: flex;
+}
+.prof{
+   
+    margin-top: -21px;
+}
+.prof h4{
+    color: white;
+}
+.topic{
+    
+    margin-top: 0px;
+    
+}
+.topic1{
+    
+    margin-top: 28px;
+    
+}
+.topic2{
+    margin-top:23px;
+}
+.topic2 h2{
+    color:skyblue;
+}
+.topic h2{
+    color: skyblue;
+}
+.topic1 h2{
+    color: skyblue;
+}
+
+.sub{
+    
+    margin-top: -18px;
+    margin-left: 6px;
+}
+.sub p{
+    color:white;
+    font-size: 19px;
+
+}
+
+.sub h4{
+    color: sandybrown;
+}
+.subc{
+    margin-top: -15px;
+    margin-left: 6px;
+    
+
+}
+.spec{
+    color: sandybrown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
